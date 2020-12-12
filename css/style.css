@@ -1,0 +1,38 @@
+body{
+	background-color: #333;
+}
+
+#ficha{
+	background-color: #ccc;
+	margin: 40px 5px 0 5px; /*top right bottom left*/
+	padding: 0 10px 0 10px;
+}
+
+h4{
+	font-family: Ebrima;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	padding: 15px 0 15px 0;
+}
+
+#image{
+	max-height: 300px;
+	/*max-width: 50%;*/
+	position: relative;
+}
+
+#datos{
+	background-color: #ccc;
+	width: 100%;
+	position: relative;
+	font-family: Nirmala UI;
+}
+
+h5{
+	text-align: left;
+}
+
+h6{
+	text-align: right;
+}
